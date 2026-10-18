@@ -1,6 +1,6 @@
 # XVG RPC Explorer
 
-## Self-Hosted Litecoin explorer for everyone running [Litecoin Core](https://github.com/litecoin-project/litecoin).
+## Self-Hosted Litecoin explorer for everyone running [VERGE Core](https://github.com/litecoin-project/litecoin).
 
 [![npm version][npm-ver-img]][npm-ver-url] [![NPM downloads][npm-dl-alltime-img]][npm-dl-url]
 
