@@ -1,4 +1,4 @@
-# LTC RPC Explorer
+# XVG RPC Explorer
 
 ## Self-Hosted Litecoin explorer for everyone running [Litecoin Core](https://github.com/litecoin-project/litecoin).
 
